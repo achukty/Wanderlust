@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wanderlust</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_">Activity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_bali">BaliActivity</string>
+    <string name="title_activity_paris">ParisActivity</string>
+    <string name="title_activity_singapore">SingaporeActivity</string>
+    <string name="bali" />
+    <string name="paris" />
+    <string name="singapore" />
+</resources>
